@@ -4,6 +4,6 @@ class Multiply
  {
    int a=3,b=5;
    int c=a*b;
-   System.out.println("pdt is"+c);
+   System.out.println("pd"+c);
 }
 }
